@@ -1,1 +1,1 @@
-INSERT INTO ksiazki (idksiazki, nazwiskoautora, tytul) VALUES (NULL, "Grębosz", "Symfonia C++")
+INSERT INTO ksiazki  (idksiazki, nazwiskoautora, tytul) VALUES (NULL, "Grębosz", "Symfonia C++")
